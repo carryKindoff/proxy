@@ -1,6 +1,6 @@
 # Growtopia enet proxy
 
-#Do /proxy for show commands 
+Do /proxy for show commands 
 
-*discord: carry kindoff#1511
+discord: carry kindoff#1511
 
